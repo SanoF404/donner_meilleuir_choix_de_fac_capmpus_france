@@ -2,3 +2,6 @@
 .venv/
 __pycache__/
 *.py[cod]
+moteur_recherche.py.bak
+resultats_recherche.xlsx
+preuves_formations_v2_avant_nettoyage.xlsx
